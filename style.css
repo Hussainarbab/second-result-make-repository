@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+input{
+    width: 25%;
+    margin-top: 6px;
+    font-size: 18px;
+    height: 25px;
+font-family: sans-serif;
+outline: none;
+
+}
+
+
+
+label{
+    font-size: 23px;
+    color: white;
+}
+.dv{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+button{
+    margin-top: 8px;
+    padding: 8px 15px;
+    border-radius: 8px;
+}
+
+button:hover{
+    background-color: brown;
+    color: aliceblue;
+    border: none;
+    border-radius: 8px;
+}
+
+#show{
+    background-color: black;
+    color: white;
+    text-align: start;
+}
